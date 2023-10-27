@@ -6,7 +6,7 @@ const CONFIG = {
     role: "INTJ+摩羯座",
     bio: "平静的努力🔥，精致的执着✨",
     email: "aixin2019@gmail.com",
-    WeChat: "",
+    linkedin: "",
     github: "小太阳昌仔",
     instagram: "",
   },
