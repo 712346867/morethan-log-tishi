@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "平静的努力🔥，精致的执着✨",
     email: "aixin2019@gmail.com",
     linkedin: "",
-    github: "小太阳昌仔",
+    github: "712346867",
     instagram: "",
   },
   projects: [
