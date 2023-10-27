@@ -15,10 +15,6 @@ const CONFIG = {
       "name": "MY BLOG",
       "href": "https://blog.ssuncz.top"
     },
-    {
-      "name": "MY PORTFOLIO",
-      "href": "https://portfolio.ssuncz.top"
-    }
   ],
   // blog setting (required)
   blog: {
