@@ -15,6 +15,14 @@ const CONFIG = {
       name: `MY BLOG`,
       href: "https://blog.ssuncz.top",
     },
+    {
+      name: `MY Prompts`,
+      href: "https://blog.ssuncz.top",
+    },
+    {
+      name: `MY Tools`,
+      href: "https://blog.ssuncz.top",
+    },
   ],
   // blog setting (required)
   blog: {
