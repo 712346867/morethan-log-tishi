@@ -14,8 +14,6 @@ const CONFIG = {
     {
       name: `MY BLOG`,
       href: "https://blog.ssuncz.top",
-      name: `MY BLOG`,
-      href: "https://blog.ssuncz.top",
     },
   ],
   // blog setting (required)
