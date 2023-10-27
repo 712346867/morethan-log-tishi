@@ -4,7 +4,7 @@ const CONFIG = {
     name: "小太阳昌仔",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "INTJ+摩羯座",
-    bio: "平静的努力🔥，精致的执着✨",
+    bio: "🔥平静的努力，精致的执着",
     email: "aixin2019@gmail.com",
     linkedin: "",
     github: "712346867",
@@ -12,6 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
+      name: `MY BLOG`,
+      href: "https://blog.ssuncz.top",
       name: `MY BLOG`,
       href: "https://blog.ssuncz.top",
     },
