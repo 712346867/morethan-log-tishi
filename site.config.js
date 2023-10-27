@@ -58,7 +58,7 @@ const CONFIG = {
     enable: true,
     config: {
       host: "https://cusdis.com",
-      appid: "078908aa-ff33-4c79-8daa-b8be157ecc1a", // Embed Code -> data-app-id value
+      appid: "9b73f394-3307-4b52-a5b1-a4c3b1e2497c", // Embed Code -> data-app-id value
     },
   },
   isProd: process.env.VERCEL_ENV === "production", // distinguish between development and production environment (ref: https://vercel.com/docs/environment-variables#system-environment-variables)
