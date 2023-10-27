@@ -16,7 +16,7 @@ const CONFIG = {
       "href": "https://blog.ssuncz.top"
     },
     {
-      "name1": "MY BLOG",
+      "name1": "MY Prompts",
       "href": "https://blog.ssuncz.top"
     },
   ],
